@@ -1,1 +1,17 @@
 <html>
+
+<head>
+
+<ul style="list-style-type:none;">
+   <li>Apple</li>
+   <li>Banada</li>
+   <li><ol>Fruit 1
+      <li>Orange
+      <li>Grape
+  <ul>Fruit 2
+         <ol><li>
+              <ul>Kiwi
+              </ul>
+              <ol>
+         <li>Pineapple
+         <li>Star Fruit
