@@ -1,10 +1,6 @@
-body{
- background-color: navy blue
-}
+body{background-color: navy blue}
 
-p{
-  color: gold
-}
+p{color: gold}
 
 .purpletext{
   color: purple
@@ -12,14 +8,8 @@ p{
   font-weight:bold;
 }
 
-#MyfirstID{
-  color: red
-}
+#MyfirstID{color: red}
 
-.italictext{
-  font-style: italic;
-}
+.italictext{font-style: italic;}
 
-.fontchange{
-  font-style: Calibri,serif;
-}
+.fontchange{font-style: Calibri,serif;}
