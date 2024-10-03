@@ -1,5 +1,17 @@
-body{
+body {
   background-color: blue
 }
 
-p
+p {
+  color: black
+}
+
+img {
+  padding:
+  border:
+  margin:
+}
+
+p.dotted {
+  border-style: dotted;
+}

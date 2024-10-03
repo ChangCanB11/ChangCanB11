@@ -1,11 +1,29 @@
-p{
+p {
   color: purple
 }
 
-div.myDiv{
+div.myDiv {
   color: black
 }
 
-div, p{
+div, p {
   color: orange
+}
+
+div p {
+
+}
+
+div + p {
+  color:
+}
+
+img {
+  padding:
+  border:
+  margin:
+}
+
+p.dotted {
+  border-style: dotted;
 }

@@ -1,11 +1,27 @@
-p{
-  
-}
-
-div{
+p {
 
 }
 
-span{
+div {
 
+}
+
+span {
+  color: red
+}
+
+div,p {
+  color: yellow
+}
+
+div > p {
+
+}
+
+div + p {
+
+}
+
+p.dotted {
+  border-style: dotted;
 }
