@@ -1,11 +1,3 @@
-p {
-
-}
-
-div {
-
-}
-
 span {
   color: red
 }
@@ -24,4 +16,8 @@ div + p {
 
 p.dotted {
   border-style: dotted;
+}
+
+border{
+  
 }
