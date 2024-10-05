@@ -1,17 +1,7 @@
-body {
-  background-color: blue
-}
+.body1{background-color: blue;}
 
-p {
-  color: black
-}
+.border1{border-style: solid;}
 
-img {
-  padding:
-  border:
-  margin:
-}
+.border2{border-style: dashed; color: green}
 
-p.dotted {
-  border-style: dotted;
-}
+.border3{border-style: dashed; color: white}

@@ -1,33 +1,13 @@
 p {
-  color: purple
+  color: purple;
 }
 
-div.myDiv {
-  color: black
-}
-
-div, p {
-  color: orange
-}
-
-div p {
-
-}
-
-div + p {
-  color:
-}
-
-span{
-  
-}
-
-img {
-  padding:
-  border:
-  margin:
-}
-
-p.dotted {
+.dotted {
   border-style: dotted;
 }
+
+.myDiv {color: green;}
+
+.myDiv2 {color: Red;}
+
+.none {border-style: none; background-color: green;}

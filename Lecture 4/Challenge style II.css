@@ -1,23 +1,6 @@
-span {
-  color: red
-}
-
-div,p {
-  color: yellow
-}
-
-div > p {
-
-}
-
-div + p {
-
-}
-
-p.dotted {
-  border-style: dotted;
-}
-
-border{
-  
-}
+.myborder {border-style: dotted; color: purple;}
+.span1 {color: red;}
+.style1 {color: green;}
+.style2 {color: orange;}
+.span2 {color: yellow;}
+.style3 {color: purple}
