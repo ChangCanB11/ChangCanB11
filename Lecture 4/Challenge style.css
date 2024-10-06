@@ -5,3 +5,9 @@
 .border2{border-style: dashed; color: green}
 
 .border3{border-style: dashed; color: white}
+
+img{
+  padding: 300;
+  margin: 230;
+  
+}

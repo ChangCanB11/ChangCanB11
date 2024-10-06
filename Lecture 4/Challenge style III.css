@@ -6,8 +6,8 @@ p {
   border-style: dotted;
 }
 
-.myDiv {color: green;}
+.myDiv {color: black;}
 
-.myDiv2 {color: Red;}
+.myDiv2 {color: red;}
 
 .none {border-style: none; background-color: green;}
