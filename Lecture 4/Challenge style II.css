@@ -1,5 +1,7 @@
 .myborder {border-style: dotted; color: purple; text-align: center;}
 
+div {text-align: center;}
+
 .span1 {color: red;}
 
 .style1 {color: green;}
@@ -10,6 +12,6 @@
 
 .style3 {color: purple; font-size: 5;}
 
-.div2 {text-align: left;}
+div.div2 {text-align: left;}
 
-.div3 {text-align: right;}
+div.div3 {text-align: right;}
