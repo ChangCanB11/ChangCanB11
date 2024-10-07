@@ -6,11 +6,11 @@ div {text-align: center;}
 
 .style1 {color: green;}
 
-.style2 {color: orange; font-size: 14;}
+p.style2 {color: orange; font-size: 14px;}
 
 .span2 {color: yellow;}
 
-.style3 {color: purple; font-size: 5;}
+p.style3 {color: purple; font-size: 5px;}
 
 div.div2 {text-align: left;}
 
