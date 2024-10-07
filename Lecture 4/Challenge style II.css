@@ -1,10 +1,8 @@
 .myborder {border-style: dotted; color: purple; text-align: center;}
 
-div {text-align: center;}
-
 .span1 {color: red;}
 
-.style1 {color: green;}
+p.style1 {color: green; text-align: center;}
 
 p.style2 {color: orange; font-size: 16px;}
 
