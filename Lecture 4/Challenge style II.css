@@ -2,7 +2,9 @@
 
 .span1 {color: red;}
 
-p.style1 {color: green; text-align: center;}
+div {text-align: center;}
+
+.style1 {color: green;}
 
 p.style2 {color: orange; font-size: 16px;}
 
