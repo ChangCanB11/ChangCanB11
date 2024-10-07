@@ -9,5 +9,6 @@
 img{
   padding: 300;
   margin: 230;
-  
+  border: 500;
+  border-style: solid;
 }
